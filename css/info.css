@@ -74,44 +74,44 @@ p{
 .progress-bar{
     width: 95%;
     height: 7px;
-    background-color: white;
     margin-top: 5px;
+    background-color: #273238;
     margin-bottom: 5px;
 }
 .progress_html{
     width: 85%;
+    background-color: white;
     height: 7px;
-    background-color: #273238;
 }
 .progress_css{
     width: 85%;
     height: 7px;
-    background-color: #273238;
+    background-color: white;
 }
 .progress_js{
     width: 65%;
     height: 7px;
-    background-color: #273238;
+    background-color: white;
 }
 .progress_git{
     width: 55%;
     height: 7px;
-    background-color: #273238;
+    background-color: white;
 }
 .progress_react{
     width: 50%;
     height: 7px;
-    background-color: #273238;
+    background-color: white;
 }
 .progress_boot{
     width: 75%;
     height: 7px;
-    background-color: #273238;
+    background-color: white;
 }
 .progress_python{
-    width: 60%;
+    width: 40%;
     height: 7px;
-    background-color: #273238;
+    background-color: white;
 }
 ul{
     font-size: 13px;
