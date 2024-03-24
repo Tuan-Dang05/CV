@@ -106,6 +106,7 @@
                     <li>Xem Phim</li>
                     <li>Code</li>
                     <li>Đọc sách</li>
+                    <button onClick={handleClick}>Quay lại</button>
                 </ul>
             </div>
         </div>
@@ -137,5 +138,9 @@
         </div>
     </div>
 </body>
-
+<script>
+    function handleClick() {
+  window.history.back();
+}
+</script>
 </html>
